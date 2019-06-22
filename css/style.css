@@ -475,7 +475,7 @@ p.sub-meta {
     padding: 0.2em 0em;
     letter-spacing: 1px;
     background: bottom;
-    font-size: 20px;
+    font-size: 14px;
     border-left: 4px solid transparent;
     font-weight: 600;
     text-transform: uppercase;
@@ -501,7 +501,7 @@ p.sub-meta {
     color: #2a5298;
     border-bottom: 2px solid;
     background: #f8f9fa;
-    font-size: 20px;
+    font-size: 14px;
     padding: 0.2em 0em;
     font-weight: 600;
     text-transform: uppercase;
