@@ -223,7 +223,7 @@ a.scroll.bnr-btn i {
 /* banner */
 
 .banner-w3pvt {
-    background: url(../images/banner.jpg) no-repeat center;
+    background: url(../images/banner1.jpg) no-repeat center;
     background-size: cover;
     position: relative;
 }
@@ -794,7 +794,7 @@ p.paragraph:after {
     color: #fff;
     letter-spacing: 1px;
     font-size: 20px;
-    margin: 20px 0;
+    margin: 10px 0;
     font-weight: 600;
 }
 
@@ -802,7 +802,7 @@ p.paragraph:after {
 
 /*-- organization --*/
 .organization {
-    background: url(../images/banner.jpg) 0px 0px;
+    background: url(../images/banner2.jpg) 0px 0px;
     background-size: cover;
     position: relative;
 }
